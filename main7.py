@@ -3,4 +3,4 @@ precio_por_hora = float(input("Ingrese cuanto gana por hora: "))
 
 salario_semanal = horas_trabajadas * precio_por_hora
 
-print("Su salario semanal es:$",salario_semanal)
+print("Su salario semanal es:",salario_semanal)
